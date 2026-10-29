@@ -1,8 +1,4 @@
-# Customer RFM & Cohort Analytics Engine
-
-An end-to-end Data Science and Unsupervised Machine Learning platform analyzing customer transactional behavior, acquisition cohorts, retention lifecycles, and RFM (Recency, Frequency, Monetary) metrics. Leverages Python, Pandas, Seaborn, and Scikit-Learn K-Means Clustering to segment customer tiers and forecast long-term lifetime value intent.
-
-# 🛒 E-Commerce Customer Segmentation & RFM Cohort Analytics Engine
+# 🛒 RFM Cohort Analytics Customer Segmentation 
 
 An end-to-end Data Science and Unsupervised Machine Learning platform analyzing customer transactional behavior, acquisition cohorts, retention lifecycles, and RFM (Recency, Frequency, Monetary) metrics. Leverages Python, Pandas, Seaborn, and Scikit-Learn K-Means Clustering to segment customer tiers and evaluate lifetime value intent.
 
